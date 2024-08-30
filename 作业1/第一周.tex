@@ -46,9 +46,12 @@ subsubsection={format={\kaishu \zihao{4}},beforeskip=0pt ,afterskip=0pt}}
       cell{9}{1} = {c},
       cell{10}{1} = {c},
       cell{11}{1} = {c},
-      hline{1-2,12} = {-}{},
+      cell{12}{1} = {c},
+      cell{13}{1} = {c},
+      cell{14}{1} = {c},
+      hline{1-2,15} = {-}{},
     }
-    练习用Git命令行                        &                \\
+    练习用Git命令行                   &                \\
     git init                         & 创建一个新的 git 仓库  \\
     git status                       & 显示当前的仓库状态      \\
     git commit                       & 创建一个新的提交       \\
@@ -58,7 +61,10 @@ subsubsection={format={\kaishu \zihao{4}},beforeskip=0pt ,afterskip=0pt}}
     git branch name                  & 创建分支          \\
     git branch                       & 显示分支           \\
     git remote                       & 列出远端           \\
-    git remote add name url          & 添加一个远端         
+    git remote add name url          & 添加一个远端        \\ 
+    git add filename                 & 添加文件到暂存区\\
+    git commit -m "illusttation"     & 将暂存区文件提交到版本库\\
+    git push                         & 将本地仓库的提交推送到远程仓库\\
     \end{tblr} 
     \caption{Git}
     \end{table}
@@ -245,5 +251,7 @@ subsubsection={format={\kaishu \zihao{4}},beforeskip=0pt ,afterskip=0pt}}
     的视频，以及使用教程。学习的方向更加明确，学习起来也就更加轻松。掌握了一些基本的编写
     操作，如标题，分级章节，插入图片、表格、链接等等。我也在学习的过程中体会到了Latxe文本编辑器
     的便捷之处，也更加让我有了使用该系统代替word的想法，虽然图片位置调整仍觉得十分困难。
-
+    
+\section{Github仓库ssh链接}
+ url{git@github.com:xixiyhaha/psychic-octo-engine.git}
 \end{document}
