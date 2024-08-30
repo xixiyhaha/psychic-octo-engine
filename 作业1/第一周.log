@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.27)  30 AUG 2024 15:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.27)  30 AUG 2024 15:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -346,6 +346,9 @@ LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 19
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 ) (./第一周.aux
 
+LaTeX Warning: Label `fig:16' multiply defined.
+
+
 LaTeX Warning: Label `fig:28' multiply defined.
 
 
@@ -563,108 +566,221 @@ Overfull \hbox (44.84067pt too wide) detected at line 112
 File: 111.png Graphic file (type png)
 <use 111.png>
 Package pdftex.def Info: 111.png  used on input line 121.
-(pdftex.def)             Requested size: 540.60236pt x 117.254pt.
-
-Overfull \hbox (39.26482pt too wide) in paragraph at lines 121--122
- [][] 
- []
-
+(pdftex.def)             Requested size: 455.24408pt x 98.73193pt.
 [2]
 <3.png, id=143, 995.72pt x 149.55875pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
 Package pdftex.def Info: 3.png  used on input line 128.
-(pdftex.def)             Requested size: 540.60236pt x 81.20096pt.
+(pdftex.def)             Requested size: 512.1496pt x 76.92662pt.
 
-Overfull \hbox (39.26482pt too wide) in paragraph at lines 128--129
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 128--129
  [][] 
  []
 
-<4.png, id=144, 990.70125pt x 234.8775pt>
+<6480defad74ba047289d64330675609b.png, id=144, 1047.915pt x 86.3225pt>
+File: 6480defad74ba047289d64330675609b.png Graphic file (type png)
+<use 6480defad74ba047289d64330675609b.png>
+Package pdftex.def Info: 6480defad74ba047289d64330675609b.png  used on input line 135.
+(pdftex.def)             Requested size: 512.1496pt x 42.18906pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 135--136
+ [][] 
+ []
+
+<4.png, id=145, 990.70125pt x 234.8775pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
-Package pdftex.def Info: 4.png  used on input line 135.
-(pdftex.def)             Requested size: 540.60236pt x 128.16518pt.
+Package pdftex.def Info: 4.png  used on input line 143.
+(pdftex.def)             Requested size: 455.24408pt x 107.93027pt.
+<5.png, id=146, 538.01pt x 260.47313pt>
+File: 5.png Graphic file (type png)
+<use 5.png>
+Package pdftex.def Info: 5.png  used on input line 151.
+(pdftex.def)             Requested size: 512.1496pt x 247.9568pt.
 
-Overfull \hbox (39.26482pt too wide) in paragraph at lines 135--136
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 151--152
  [][] 
  []
 
-<5.png, id=145, 538.01pt x 260.47313pt>
-File: 5.png Graphic file (type png)
-<use 5.png>
-Package pdftex.def Info: 5.png  used on input line 143.
-(pdftex.def)             Requested size: 256.0748pt x 123.97641pt.
-[3 <./111.png> <./3.png> <./4.png>]
-<6.png, id=163, 594.22pt x 317.68687pt>
+[3 <./111.png> <./3.png> <./6480defad74ba047289d64330675609b.png> <./4.png>]
+<6.png, id=165, 594.22pt x 317.68687pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
-Package pdftex.def Info: 6.png  used on input line 151.
-(pdftex.def)             Requested size: 256.0748pt x 136.90807pt.
-<20240830000426.png, id=165, 931.48pt x 511.9125pt>
+Package pdftex.def Info: 6.png  used on input line 159.
+(pdftex.def)             Requested size: 512.1496pt x 273.821pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 159--160
+ [][] 
+ []
+
+<f5be76d6714babd5b02bc1ae4fcd7bdc.png, id=166, 990.70125pt x 156.585pt>
+File: f5be76d6714babd5b02bc1ae4fcd7bdc.png Graphic file (type png)
+<use f5be76d6714babd5b02bc1ae4fcd7bdc.png>
+Package pdftex.def Info: f5be76d6714babd5b02bc1ae4fcd7bdc.png  used on input line 167.
+(pdftex.def)             Requested size: 512.1496pt x 80.94681pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 167--168
+ [][] 
+ []
+
+[4 <./5.png> <./6.png>]
+<b471598ff20a910bccfd0abfd541bcef.png, id=172, 942.52126pt x 104.39pt>
+File: b471598ff20a910bccfd0abfd541bcef.png Graphic file (type png)
+<use b471598ff20a910bccfd0abfd541bcef.png>
+Package pdftex.def Info: b471598ff20a910bccfd0abfd541bcef.png  used on input line 175.
+(pdftex.def)             Requested size: 512.1496pt x 56.72336pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 175--176
+ [][] 
+ []
+
+<4ffbfc1437dd891758904bd297c85946.png, id=173, 1041.8925pt x 298.11375pt>
+File: 4ffbfc1437dd891758904bd297c85946.png Graphic file (type png)
+<use 4ffbfc1437dd891758904bd297c85946.png>
+Package pdftex.def Info: 4ffbfc1437dd891758904bd297c85946.png  used on input line 183.
+(pdftex.def)             Requested size: 455.24408pt x 130.25613pt.
+<3671d9519684f17b9b96eaeca6db42e6.png, id=174, 912.40875pt x 90.3375pt>
+File: 3671d9519684f17b9b96eaeca6db42e6.png Graphic file (type png)
+<use 3671d9519684f17b9b96eaeca6db42e6.png>
+Package pdftex.def Info: 3671d9519684f17b9b96eaeca6db42e6.png  used on input line 190.
+(pdftex.def)             Requested size: 512.1496pt x 50.70856pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 190--191
+ [][] 
+ []
+
+<58a7eea9feb1c6073c85548618e7cef4.png, id=175, 929.4725pt x 83.31125pt>
+File: 58a7eea9feb1c6073c85548618e7cef4.png Graphic file (type png)
+<use 58a7eea9feb1c6073c85548618e7cef4.png>
+Package pdftex.def Info: 58a7eea9feb1c6073c85548618e7cef4.png  used on input line 197.
+(pdftex.def)             Requested size: 455.24408pt x 40.80379pt.
+<31e2ac4160721560e1f8289f0edcd5fd.png, id=176, 1128.215pt x 487.8225pt>
+File: 31e2ac4160721560e1f8289f0edcd5fd.png Graphic file (type png)
+<use 31e2ac4160721560e1f8289f0edcd5fd.png>
+Package pdftex.def Info: 31e2ac4160721560e1f8289f0edcd5fd.png  used on input line 204.
+(pdftex.def)             Requested size: 455.24408pt x 196.83755pt.
+[5 <./f5be76d6714babd5b02bc1ae4fcd7bdc.png> <./b471598ff20a910bccfd0abfd541bcef.png> <./4ffbfc1437dd891758904bd297c85946.png> <./3671d9519684f17b9b96eaeca6db42e6.png> <./58a7eea9feb1c6073c85548618e7cef4.png>]
+<20240830000426.png, id=186, 931.48pt x 511.9125pt>
 File: 20240830000426.png Graphic file (type png)
 <use 20240830000426.png>
-Package pdftex.def Info: 20240830000426.png  used on input line 162.
-(pdftex.def)             Requested size: 256.0748pt x 140.7256pt.
-<image.png, id=166, 351.81438pt x 67.25125pt>
+Package pdftex.def Info: 20240830000426.png  used on input line 215.
+(pdftex.def)             Requested size: 540.60236pt x 297.10474pt.
+
+Overfull \hbox (39.26482pt too wide) in paragraph at lines 215--216
+ [][] 
+ []
+
+<image.png, id=187, 351.81438pt x 67.25125pt>
 File: image.png Graphic file (type png)
 <use image.png>
-Package pdftex.def Info: image.png  used on input line 173.
-(pdftex.def)             Requested size: 256.0748pt x 48.94933pt.
+Package pdftex.def Info: image.png  used on input line 226.
+(pdftex.def)             Requested size: 512.1496pt x 97.89967pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--176
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 226--227
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--229
 
  []
 
-[4 <./5.png> <./6.png> <./20240830000426.png>]
-<image copy.png, id=175, 343.2825pt x 214.8025pt>
+[6 <./31e2ac4160721560e1f8289f0edcd5fd.png> <./20240830000426.png>]
+<image copy.png, id=195, 343.2825pt x 214.8025pt>
 File: image copy.png Graphic file (type png)
 <use image copy.png>
-Package pdftex.def Info: image copy.png  used on input line 181.
-(pdftex.def)             Requested size: 256.0748pt x 160.2329pt.
-<1.png, id=176, 453.695pt x 60.225pt>
+Package pdftex.def Info: image copy.png  used on input line 234.
+(pdftex.def)             Requested size: 512.1496pt x 320.49532pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 234--235
+ [][] 
+ []
+
+<1.png, id=196, 453.695pt x 60.225pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 188.
-(pdftex.def)             Requested size: 256.0748pt x 33.99225pt.
-<2.png, id=177, 551.05875pt x 331.2375pt>
+Package pdftex.def Info: 1.png  used on input line 241.
+(pdftex.def)             Requested size: 512.1496pt x 67.98451pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 241--242
+ [][] 
+ []
+
+<2.png, id=197, 551.05875pt x 331.2375pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 194.
-(pdftex.def)             Requested size: 256.0748pt x 153.92781pt.
-Package CJKpunct Info: use punctuation spaces for family 'zhsong' with punctstyle (quanjiao) on input line 200.
-<7.png, id=180, 981.6675pt x 183.68625pt>
+Package pdftex.def Info: 2.png  used on input line 247.
+(pdftex.def)             Requested size: 512.1496pt x 307.88089pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 247--248
+ [][] 
+ []
+
+[7 <./image.png> <./image copy.png>]
+Package CJKpunct Info: use punctuation spaces for family 'zhsong' with punctstyle (quanjiao) on input line 253.
+<7.png, id=213, 981.6675pt x 183.68625pt>
 File: 7.png Graphic file (type png)
 <use 7.png>
-Package pdftex.def Info: 7.png  used on input line 205.
-(pdftex.def)             Requested size: 256.0748pt x 47.91425pt.
-<8.png, id=181, 990.70125pt x 234.8775pt>
+Package pdftex.def Info: 7.png  used on input line 258.
+(pdftex.def)             Requested size: 512.1496pt x 95.8341pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 258--259
+ [][] 
+ []
+
+<8.png, id=214, 990.70125pt x 234.8775pt>
 File: 8.png Graphic file (type png)
 <use 8.png>
-Package pdftex.def Info: 8.png  used on input line 212.
-(pdftex.def)             Requested size: 256.0748pt x 60.70831pt.
-<9.png, id=182, 722.7pt x 231.86626pt>
+Package pdftex.def Info: 8.png  used on input line 265.
+(pdftex.def)             Requested size: 512.1496pt x 121.42021pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 265--266
+ [][] 
+ []
+
+[8 <./1.png> <./2.png> <./7.png>]
+<9.png, id=223, 722.7pt x 231.86626pt>
 File: 9.png Graphic file (type png)
 <use 9.png>
-Package pdftex.def Info: 9.png  used on input line 219.
-(pdftex.def)             Requested size: 256.0748pt x 82.15564pt.
-<10.png, id=183, 822.07124pt x 93.34875pt>
+Package pdftex.def Info: 9.png  used on input line 272.
+(pdftex.def)             Requested size: 512.1496pt x 164.31483pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 272--273
+ [][] 
+ []
+
+<10.png, id=224, 822.07124pt x 93.34875pt>
 File: 10.png Graphic file (type png)
 <use 10.png>
-Package pdftex.def Info: 10.png  used on input line 226.
-(pdftex.def)             Requested size: 256.0748pt x 29.0774pt.
-<11.png, id=184, 1071.00125pt x 140.525pt>
+Package pdftex.def Info: 10.png  used on input line 279.
+(pdftex.def)             Requested size: 512.1496pt x 58.15622pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 279--280
+ [][] 
+ []
+
+<11.png, id=225, 1071.00125pt x 140.525pt>
 File: 11.png Graphic file (type png)
 <use 11.png>
-Package pdftex.def Info: 11.png  used on input line 232.
-(pdftex.def)             Requested size: 256.0748pt x 33.60017pt.
- [5 <./image.png> <./image copy.png> <./1.png>] [6 <./2.png> <./7.png> <./8.png> <./9.png>]
-<12.png, id=207, 595.72563pt x 47.67813pt>
+Package pdftex.def Info: 11.png  used on input line 285.
+(pdftex.def)             Requested size: 512.1496pt x 67.20035pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 285--286
+ [][] 
+ []
+
+<12.png, id=226, 595.72563pt x 47.67813pt>
 File: 12.png Graphic file (type png)
 <use 12.png>
-Package pdftex.def Info: 12.png  used on input line 238.
-(pdftex.def)             Requested size: 256.0748pt x 20.49463pt.
- [7 <./10.png> <./11.png> <./12.png>] (./第一周.aux)
+Package pdftex.def Info: 12.png  used on input line 291.
+(pdftex.def)             Requested size: 512.1496pt x 40.99146pt.
+
+Overfull \hbox (10.81206pt too wide) in paragraph at lines 291--292
+ [][] 
+ []
+
+[9 <./8.png> <./9.png> <./10.png> <./11.png>] [10 <./12.png>] (./第一周.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -675,18 +791,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 10155 strings out of 476023
- 217474 string characters out of 5791734
+ 10210 strings out of 476023
+ 219625 string characters out of 5791734
  1958190 words of memory out of 5000000
- 31868 multiletter control sequences out of 15000+600000
+ 31923 multiletter control sequences out of 15000+600000
  615866 words of font info for 227 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  80i,8n,102p,1024b,1319s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on 第一周.pdf (7 pages, 996330 bytes).
+Output written on 第一周.pdf (10 pages, 1106179 bytes).
 PDF statistics:
- 561 PDF objects out of 1000 (max. 8388607)
- 341 compressed objects within 4 object streams
+ 584 PDF objects out of 1000 (max. 8388607)
+ 347 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 376 words of extra memory for PDF output out of 10000 (max. 10000000)
 

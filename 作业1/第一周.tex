@@ -118,21 +118,29 @@ subsubsection={format={\kaishu \zihao{4}},beforeskip=0pt ,afterskip=0pt}}
     \item 获取自己建的ssh密钥信息
 \begin{figure}[H]
     \centering
-    \includegraphics[width=19cm]{111.png}
+    \includegraphics[width=16cm]{111.png}
     \caption{cat\quad\textasciitilde{}/.ssh/id\_rsa.pub}
     \label{fig:11}
 \end{figure}
     \item 通过 SSH（安全外壳协议）连接到 GitHub 服务器
      \begin{figure}[H]
         \centering
-        \includegraphics[width=19cm]{3.png}
+        \includegraphics[width=18cm]{3.png}
         \caption{ssh -T git@github.com}
         \label{fig:12}
     \end{figure}
+\vspace{-5pt}\item git init: 创建一个新的 git 仓库
+    \begin{figure}[H]
+    \centering
+    \includegraphics[width=18cm]{6480defad74ba047289d64330675609b.png}
+    \caption{git init}
+    \label{fig:112}
+\end{figure}
+
     \item git clone: 克隆仓库
     \begin{figure}[H]
        \centering
-       \includegraphics[width=19cm]{4.png}
+       \includegraphics[width=16cm]{4.png}
        \caption{git clone}
        \label{fig:13}
    \end{figure}
@@ -140,7 +148,7 @@ subsubsection={format={\kaishu \zihao{4}},beforeskip=0pt ,afterskip=0pt}}
 \vspace{-5pt}\item git log: 查看历史日志，按q退出
      \begin{figure}[H]
         \centering
-        \includegraphics[width=9cm]{5.png}
+        \includegraphics[width=18cm]{5.png}
         \caption{git log}
         \label{fig:14}
     \end{figure}
@@ -148,10 +156,55 @@ subsubsection={format={\kaishu \zihao{4}},beforeskip=0pt ,afterskip=0pt}}
     \vspace{-5pt}\item git log --all --graph --decorate: 可视化历史记录（有向无环图）
     \begin{figure}[H]
        \centering
-       \includegraphics[width=9cm]{6.png}
+       \includegraphics[width=18cm]{6.png}
        \caption{git log --all --graph --decorate}
        \label{fig:15}
    \end{figure}
+
+   \vspace{-5pt}\item git add name: 添加文件到暂存区
+   \begin{figure}[H]
+      \centering
+      \includegraphics[width=18cm]{f5be76d6714babd5b02bc1ae4fcd7bdc.png}
+      \caption{git add name}
+      \label{fig:16}
+  \end{figure}
+
+  \vspace{-5pt}\item git commit -m "illuastration": 将暂存区文件提交到版本库
+   \begin{figure}[H]
+      \centering
+      \includegraphics[width=18cm]{b471598ff20a910bccfd0abfd541bcef.png}
+      \caption{git commit -m "illuastration"}
+      \label{fig:17}
+  \end{figure}
+
+  \vspace{-5pt}\item git push: 将本地仓库的提交推送到远程仓库
+   \begin{figure}[H]
+      \centering
+      \includegraphics[width=16cm]{4ffbfc1437dd891758904bd297c85946.png}
+      \caption{git push}
+      \label{fig:18}
+  \end{figure}
+  \vspace{-5pt}\item git branch: 显示分支
+   \begin{figure}[H]
+      \centering
+      \includegraphics[width=18cm]{3671d9519684f17b9b96eaeca6db42e6.png}
+      \caption{git branch}
+      \label{fig:19}
+  \end{figure}
+  \vspace{-5pt}\item git branch: 列出远端
+   \begin{figure}[H]
+      \centering
+      \includegraphics[width=16cm]{58a7eea9feb1c6073c85548618e7cef4.png}
+      \caption{git branch}
+      \label{fig:110}
+  \end{figure}
+  \vspace{-5pt}\item git status: 显示当前的仓库状态
+   \begin{figure}[H]
+      \centering
+      \includegraphics[width=16cm]{31e2ac4160721560e1f8289f0edcd5fd.png}
+      \caption{git status}
+      \label{fig:111}
+  \end{figure}
 \end{enumerate}
 
 
@@ -159,7 +212,7 @@ subsubsection={format={\kaishu \zihao{4}},beforeskip=0pt ,afterskip=0pt}}
 使用Latex自己编辑的实验报告模板代码如下：
 \begin{figure}[H]
     \centering
-    \includegraphics[width=9cm]{20240830000426.png}
+    \includegraphics[width=19cm]{20240830000426.png}
     \caption{实验报告模板代码}
     \label{fig:16}
 \end{figure}
@@ -170,7 +223,7 @@ subsubsection={format={\kaishu \zihao{4}},beforeskip=0pt ,afterskip=0pt}}
     \item 通过 SSH（安全外壳协议）连接到 GitHub 服务器\\
     \begin{figure}[H]
         \centering
-        \includegraphics[width=9cm]{image.png}
+        \includegraphics[width=18cm]{image.png}
         \caption{ssh -T git@github.com}
         \label{fig:21}
     \end{figure}
@@ -178,20 +231,20 @@ subsubsection={format={\kaishu \zihao{4}},beforeskip=0pt ,afterskip=0pt}}
     \item 打开config文件查看信息，发现有问题
     \begin{figure}[H]
         \centering
-        \includegraphics[width=9cm]{image copy.png}
+        \includegraphics[width=18cm]{image copy.png}
         \caption{cat ~/.ssh/config}
         \label{fig:22}
     \end{figure}
     \item 编辑config文件，添加代码，连接成功
     \begin{figure}[H]
         \centering
-        \includegraphics[width=9cm]{1.png}
+        \includegraphics[width=18cm]{1.png}
         \caption{vi ~/.ssh/config}
         \label{fig:23}
     \end{figure}
-    \begin{figure}[htbp]
+    \begin{figure}[H]
         \centering
-        \includegraphics[width=9cm]{2.png}
+        \includegraphics[width=18cm]{2.png}
         \caption{vi ~/.ssh/config}
         \label{fig:24}
     \end{figure}
@@ -200,42 +253,42 @@ subsubsection={format={\kaishu \zihao{4}},beforeskip=0pt ,afterskip=0pt}}
 \subsection{使用 git clone + 仓库ssh协议网址，报错}
 
     1. 尝试使用 SSH 协议克隆 GitHub 仓库时遇到了 "Connection refused" 错误。这是因为在 .ssh/config 文件中配置了 GitHub 的 SSH 连接使用非标准端口 443，而 git clone 命令默认使用端口 22。
-    \begin{figure}[htbp]
+    \begin{figure}[H]
         \centering
-        \includegraphics[width=9cm]{7.png}
+        \includegraphics[width=18cm]{7.png}
         \caption{}
         \label{fig:25}
     \end{figure}
     可更改为使用 github 标签来连接到 GitHub
-    \begin{figure}[htbp]
+    \begin{figure}[H]
         \centering
-        \includegraphics[width=9cm]{8.png}
+        \includegraphics[width=18cm]{8.png}
         \caption{}
         \label{fig:26}
     \end{figure}
     \par2. 也可以修改文件
-    \begin{figure}[htbp]
+    \begin{figure}[H]
         \centering
-        \includegraphics[width=9cm]{9.png}
+        \includegraphics[width=18cm]{9.png}
         \caption{}
         \label{fig:27}
     \end{figure}
     ，用git@github.com 连接：
     \begin{figure}[H]
         \centering
-        \includegraphics[width=9cm]{10.png}
+        \includegraphics[width=18cm]{10.png}
         \caption{}
         \label{fig:28}
     \end{figure}
-    \begin{figure}[htbp]
+    \begin{figure}[H]
         \centering
-        \includegraphics[width=9cm]{11.png}
+        \includegraphics[width=18cm]{11.png}
         \caption{}
         \label{fig:28}
     \end{figure}
-    \begin{figure}[htbp]
+    \begin{figure}[H]
         \centering
-        \includegraphics[width=9cm]{12.png}
+        \includegraphics[width=18cm]{12.png}
         \caption{}
         \label{fig:28}
     \end{figure}
